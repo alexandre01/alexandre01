@@ -2,7 +2,7 @@ Hi there! 👋
 
 
 # 🙋‍♂️🙋‍♂️ Litso AI
-Wanna join Litso AI and build the next-gen meme & social media generation tool? Write me on Twitter, LinkedIn or per email: alex@litso.io
+Wanna join Litso AI and build the next-gen meme & social media generation tool using Deep Learning? Write me on Twitter, LinkedIn or per email: alex@litso.io
 
 
 [![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/alxandrecarlier)
