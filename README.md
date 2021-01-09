@@ -1,7 +1,7 @@
 Hi there! 👋
 
 
-# 🙋‍♂️🙋‍♂️ Litso AI
+# <img src="https://www.litso.io/litso.svg" height=35 />&nbsp; Litso AI
 Wanna join Litso AI and build the next-gen meme & social media generation tool using Deep Learning? Write me on Twitter, LinkedIn or per email: alex@litso.io
 
 
@@ -18,7 +18,7 @@ Wanna join Litso AI and build the next-gen meme & social media generation tool u
 
 ----
 
-# 🟧🟢🔷 DeepSVG
+# <img src="https://raw.githubusercontent.com/alexandre01/deepsvg/master/docs/imgs/logo.svg" height=55 />
 Check out our NeurIPS2020 paper on SVG image generation!
 
 <https://github.com/alexandre01/deepsvg>
