@@ -6,8 +6,8 @@ Contact me:
 
 ----
 
-# <img src="https://aiunfolded.co/favicon.ico" height=35 />&nbsp; AI Unfolded
-AI Unfolded is the largest database of AI tools and resources. <a href="https://aiunfolded.co/">Browse 3000+ AI tools</a> in 100+ categories, read our comprehensive guides, and find the right tool for your project: <https://aiunfolded.co>
+# <img src="https://www.aiunfolded.co/favicon.ico" height=35 />&nbsp; AI Unfolded
+AI Unfolded is the largest database of AI tools and resources. <a href="https://www.aiunfolded.co/">Browse 3000+ AI tools</a> in 100+ categories, read our comprehensive guides, and find the right tool for your project: <https://www.aiunfolded.co>
 
 ----
 
