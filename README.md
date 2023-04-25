@@ -6,6 +6,11 @@ Contact me:
 
 ----
 
+# <img src="https://www.reshot.ai/favicon.ico" height=35 />&nbsp; Reshot AI
+With Reshot AI, create professional photo shoots for your brand with fully controllable face poses, lighting, and expressions: <https://www.reshot.ai>
+
+----
+
 # <img src="https://www.aiunfolded.co/favicon.ico" height=35 />&nbsp; AI Unfolded
 AI Unfolded is the largest database of AI tools and resources. <a href="https://www.aiunfolded.co/">Browse 3000+ AI tools</a> in 100+ categories, read our comprehensive guides, and find the right tool for your project: <https://www.aiunfolded.co>
 
