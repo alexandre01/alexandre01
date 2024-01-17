@@ -4,22 +4,6 @@ Contact me:
 [![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/alexcarliera)
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandrecarlier/)
 
-----
-
-# <img src="https://www.bricksar.com/favicon.ico" height=35 />&nbsp; BricksAR
-BricksAR City Builder in AR: <https://www.bricksar.com>
-
-----
-
-# <img src="https://www.cliplaunch.com/favicon.ico" height=35 />&nbsp; ClipLaunch
-With ClipLaunch, create perfect launch videos for your product in minutes: <https://www.cliplaunch.com>
-
-----
-
-# <img src="https://www.lingosub.com/favicon.ico" height=35 />&nbsp; LingoSub
-With LingoSub, learn languages by watching videos with subtitles: <https://www.lingosub.com>
-
-----
 
 # <img src="https://www.reshot.ai/favicon.ico" height=35 />&nbsp; Reshot AI
 With Reshot AI, create professional photo shoots for your brand with fully controllable face poses, lighting, and expressions: <https://www.reshot.ai>
