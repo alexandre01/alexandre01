@@ -5,6 +5,11 @@ Contact me:
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandrecarlier/)
 
 
+# <img src="https://www.lingosub.com/favicon.ico" height=35 />&nbsp; LingoSub
+With LingoSub, learn languages by watching videos with AI-powered translations: <https://www.lingosub.com>
+
+----
+
 # <img src="https://www.reshot.ai/favicon.ico" height=35 />&nbsp; Reshot AI
 With Reshot AI, create professional photo shoots for your brand with fully controllable face poses, lighting, and expressions: <https://www.reshot.ai>
 
