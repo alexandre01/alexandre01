@@ -10,21 +10,6 @@ With Reshot AI, create professional photo shoots for your brand with fully contr
 
 ----
 
-# <img src="https://www.thumbnailspro.com/favicon.ico" height=35 />&nbsp; ThumbnailsPro
-With ThumbnailsPro, generate instant AI thumbnails with your face optimized for CTR: <https://www.thumbnailspro.com>
-
-----
-
-# <img src="https://www.lingosub.com/favicon.ico" height=35 />&nbsp; LingoSub
-With LingoSub, learn languages by watching videos with AI-powered translations: <https://www.lingosub.com>
-
-----
-
-# <img src="https://www.litso.io/litso.svg" height=35 />&nbsp; Litso AI
-Check my work on Litso APP: <https://litso.io>
-
-----
-
 # <img src="https://raw.githubusercontent.com/alexandre01/deepsvg/master/docs/imgs/logo.svg" height=55 />
 Check out our NeurIPS2020 paper on SVG image generation!
 
